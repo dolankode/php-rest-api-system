@@ -14,8 +14,4 @@ A backend REST API built with PHP and MySQL for authentication and CRUD operatio
 - REST API
 
 ## Purpose
-<<<<<<< HEAD
 This project demonstrates backend development skills in PHP, API design, and database handling.
-=======
-This project demonstrates backend development skills in PHP, API design, and database handling.
->>>>>>> 8e8bf5af8aca180f6ca7a384ba15631267e87541
